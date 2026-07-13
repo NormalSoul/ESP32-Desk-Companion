@@ -13,8 +13,4 @@ This log documents the development of the project, including each major stage, t
 - Passive buzzer (For feedback loop when buttons pressed and for alarm sounds)
 
 #### Code: 
-<details>
-
-<summary>Code for Stage 1</summary>
-
-</details>
+https://github.com/NormalSoul/ESP32-Desk-Companion/commit/ea43b75de5dbdddb6e390ee3b9066d2f14af8a38
